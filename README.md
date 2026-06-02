@@ -11,5 +11,3 @@ The plot below shows data from 1990-2010 of the relationship between renewable e
 Code for plot: 
 
 Source: 
-
-hashtag#R hashtag#DataScience hashtag#DataAnalysis hashtag#DataAnalytics hashtag#DataVisualization hashtag#DataViz hashtag#ggplot
