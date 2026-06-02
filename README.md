@@ -1,3 +1,4 @@
+<img width="3000" height="2400" alt="sample_plot" src="https://github.com/user-attachments/assets/c118e256-ae5b-4e21-9edd-bfa9257f13c9" />
 # Tidy Tuesday: Sustainable Energy for All
 
 - The R script was created with the assistance of Claude Sonnet 4.6 through Posit Assistant in RStudio.
