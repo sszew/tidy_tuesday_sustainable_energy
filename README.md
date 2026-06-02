@@ -1,4 +1,3 @@
-<img width="3000" height="2400" alt="sample_plot" src="https://github.com/user-attachments/assets/c118e256-ae5b-4e21-9edd-bfa9257f13c9" />
 # Tidy Tuesday: Sustainable Energy for All
 
 - The R script was created with the assistance of Claude Sonnet 4.6 through Posit Assistant in RStudio.
@@ -12,3 +11,6 @@ In a time where many countries are moving towards renewable energy, ideally, the
 The plot below shows data from 1990-2010 of the relationship between renewable energy consumption and energy intensity for the world's largest economies. What trends do you see?
 
 (Note: High energy intensity means low energy efficiency. In other words, you don't want high intensity).
+
+<img width="1158" height="1249" alt="renewables_energy_intensity_plot" src="https://github.com/user-attachments/assets/a0997927-5b4b-465d-a519-e33984e4abb8" />
+
