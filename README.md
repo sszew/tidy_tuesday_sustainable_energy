@@ -12,5 +12,7 @@ The plot below shows data from 1990-2010 of the relationship between renewable e
 
 (Note: High energy intensity means low energy efficiency. In other words, you don't want high intensity).
 
+- Code for plot: https://github.com/sszew/tidy_tuesday_sustainable_energy/blob/main/gdp_top10_energy_plot.R
+
 <img width="1158" height="1249" alt="renewables_energy_intensity_plot" src="https://github.com/user-attachments/assets/a0997927-5b4b-465d-a519-e33984e4abb8" />
 
